@@ -1,0 +1,15 @@
+entry the directory (A must!)
+	> git clone URL
+
+add the changed file
+	> git add FILE_NAME
+	> git add .
+	> git add -A
+commit it
+	> git commit -m "msg"
+	
+then push it
+	> git push
+	
+pull to the lastest version 
+	> git pull
