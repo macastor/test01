@@ -13,3 +13,7 @@ then push it
 	
 pull to the lastest version 
 	> git pull
+	
+Branches
+	> git branch
+	> git branch 'names1'
