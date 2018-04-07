@@ -20,3 +20,6 @@ Branches
 
 Checkout branches
 	> git cheeckout names1
+
+move head
+	> git checkout master
