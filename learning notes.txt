@@ -17,3 +17,6 @@ pull to the lastest version
 Branches
 	> git branch
 	> git branch 'names1'
+
+Checkout branches
+	> git cheeckout names1
